@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working to improve Myself
 - 📫 How to reach me: @eaaa26
-- ⚡ Fun fact: I love memes👀
+- ⚡ Fun fact: I love coding and memes👀
 
 
 <div>

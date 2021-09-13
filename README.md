@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **eaadev/eaadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: @eaaa26
 - ⚡ Fun fact: I love memes👀
--->
+
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eaadev&show_icons=true&theme=dark" alt="eaadev" />

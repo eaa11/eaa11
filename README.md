@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working to improve Myself
-- 🐦 Follow me: [![Twitter](https://img.shields.io/twitter/follow/eaaa26?label=Follow%20%40eaaa26&style=social)](https://twitter.com/eaaa26)
 - ⚡ Fun fact: I love coding💻 and memes👀
 
 

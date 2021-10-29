@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working to improve Myself
+- 🔭 I’m currently working on improving myself
 - ⚡ Fun fact: I love coding💻 and memes👀
 
 

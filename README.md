@@ -7,8 +7,7 @@
 - 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaa11&layout=compact&langs_count=15)](https://github.com/eaa11)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldim&layout=compact&langs_count=15)](https://github.com/gabrieldim)
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eaa11&show_icons=true&theme=dark" alt="eaadev" />
 <div/>

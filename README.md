@@ -13,6 +13,7 @@ I've been learning to code for 3 years already. I'm full stack developer but I'v
 
 <a href="https://www.github.com/eaa11" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/eaa11?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=eaa11&left_color=black&right_color=#66ccff)
 
 ## Skills
 <p align="left">
@@ -49,7 +50,6 @@ src="https://img.shields.io/github/followers/eaa11?logo=github&style=for-the-bad
 <a href="http://www.github.com/eaa11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eaa11&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
                 
                                   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eaa11&left_color=black&right_color=#66ccff)
 
                                   
 

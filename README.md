@@ -1,7 +1,7 @@
 Hi 👋 My name is Alejandra Adames
 =================================
 
-🚀 Web Developer
+🚀 I'm a Web Developer
 ----------------
 
 I've been learning to code for 3 years already. I'm full stack developer but I've been focused on server side with .NET technologies.

@@ -26,5 +26,7 @@ I've been learning to code for 3 years already. I'm full stack developer but I'v
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="noreferrer"><img   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"" width="36" height="36" alt="MySQL" /></a> 
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="noreferrer"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36"  /></a> 
   <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="noreferrer"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="36" height="36" /></a> 
+    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="noreferrer"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" /></a> 
+    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="noreferrer"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="36" height="36" /></a> 
                     </p>
                     

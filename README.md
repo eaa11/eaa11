@@ -1,24 +1,26 @@
-### Hi there 👋, my full name is Estrella Alejandra Adames Aquino but I'd rather be called Alejandra Adames.
+Hi 👋 My name is Alejandra Adames
+=================================
 
-- 🚀 I'm a Web Developer. Lately, I've been focused on server side though.
-- 🔭 I'm currently working on improving my code quality as well as the efficiency.
-- ⚡ I have the ability to explain things in simple terms.
-- 📝 Open and easy to take advice.
-- 📫 Reach me at: <b> 👔 [linkedin][linkedin]</b> 👈
+🚀 Web Developer
+----------------
 
+I've been learning to code for 3 years already. I'm full stack developer but I've been focused on server side with .NET technologies.
 
+*   🌍  I'm based in the Dominican Republic
+*   ✉️  You can contact me at [alejandraadames2611@gmail.com](mailto:alejandraadames2611@gmail.com)
+*   🧠  I'm learning to improve my code quality as well as the efficiency
+*   ⚡  I have the ability to explain things in simple terms.### Skills
+<p align="left">
+                                <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+                                <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+                                <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                                <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-❤️ Fun fact: I love coding and memes👀
-
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eaa11&show_icons=true&theme=dark" alt="eaadev" />
-<div/>
-<br />
-  
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaa11&layout=compact&hide=html&theme=dark" alt="eaadev" />
-<div/>
-<br />
-
-  [linkedin]: https://www.linkedin.com/in/alejandra-adames-36b11221b/
+                    </p>
+                    

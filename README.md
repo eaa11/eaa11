@@ -9,7 +9,9 @@ I've been learning to code for 3 years already. I'm full stack developer but I'v
 *   🌍  I'm based in the Dominican Republic
 *   ✉️  You can contact me at [alejandraadames2611@gmail.com](mailto:alejandraadames2611@gmail.com)
 *   🧠  I'm learning to improve my code quality as well as the efficiency
-*   ⚡  I have the ability to explain things in simple terms.### Skills
+*   ⚡  I have the ability to explain things in simple terms. 
+
+### Skills
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a hhref="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="stylesheet"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="36" height="36" alt="C#" /></a>
@@ -21,6 +23,6 @@ I've been learning to code for 3 years already. I'm full stack developer but I'v
                                 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
                                 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                                
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" target="_blank" rel="noreferrer"><img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="36" height="36" alt="MySQL" /></a> 
                     </p>
                     

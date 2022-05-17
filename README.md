@@ -8,7 +8,7 @@ I've been learning to code for 3 years already. I'm full stack developer but I'v
 
 *   🌍  I'm based in the Dominican Republic
 *   ✉️  You can contact me at [alejandraadames2611@gmail.com](mailto:alejandraadames2611@gmail.com)
-*   🧠  I'm focused on improving my code quality as well as the efficiency
+*   🧠  Focused on improving my code quality as well as the efficiency
 *   ⚡  I have the ability to explain things in simple terms. 
 
 <a href="https://www.github.com/eaa11" target="_blank" rel="noreferrer"><img

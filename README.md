@@ -4,7 +4,7 @@ Hi 👋 My name is Alejandra Adames
 🚀 Web Developer
 ----------------
 
-I've been learning to code for 3+ years already. I'm full stack developer, but I've been focused on server side with .NET technologies.
+With over 3 years of professional experience, I am a full stack developer, with a strong background on server-side technologies using .NET.
 
 *   🌍  I'm based in the Dominican Republic
 *   ✉️  You can contact me at [alejandraadames2611@gmail.com](mailto:alejandraadames2611@gmail.com)

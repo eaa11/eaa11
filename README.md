@@ -7,7 +7,7 @@ Hi 👋 My name is Alejandra Adames
 With over 5 years of professional experience, I am a backend developer with a strong background on technologies using .NET.
 
 *   🌍  I'm based in the Dominican Republic
-*   ✉️  You can contact me at [callmeale 🥰](mailto:aadames.ale@outlook.com)
+*   ✉️  You can contact me at [callmeale🥰](mailto:aadames.ale@outlook.com)
 *   🧠  Focused on improving my code quality as well as the efficiency
 *   ⚡  I have the ability to explain things in simple terms. 
 
